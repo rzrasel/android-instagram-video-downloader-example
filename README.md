@@ -43,4 +43,5 @@ The app handles permission requests automatically when needed.
 
 ## 📱 Instagram Video Downloader APK
 
-[📱 Instagram Video Downloader](apk/app-release.apk)
+[📱 Instagram Profile Downloader](apk/app-instagram-profile-release.apk)
+[📱 Instagram Video Downloader](apk/app-instagram-video-release.apk)
